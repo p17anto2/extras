@@ -18,8 +18,11 @@
 
 Εξελίξεις στους τομείς της αναγνώρισης χειρονομίας, αναγνώρισης φωνής, εικονικής και επαυξημένης πραγματικότητας, καθώς και στις φυσικές διεπαφές χρήστη έχουν βοηθήσει τις διεπαφές Post-WIMP να ενσωματωθούν σε συσκευές όπως τα έξυπνα τηλέφωνα και τα iPod, αλλά όχι στον τομέα των προσωπικών υπολογιστών.
 
-```
-Compared to Plan 9, Unix creaks and clanks and has obvious rust spots, but it gets the job done well enough to hold its position. There is a lesson here for ambitious system architects: the most dangerous enemy of a better solution is an existing codebase that is just good enough.
 
--Eric S. Raymond, για το διάδοχο του Unix, το Plan 9 from Bell Labs
-```
+> Compared to Plan 9, Unix creaks and clanks and has obvious rust spots,
+> but it gets the job done well enough to hold its position.
+> There is a lesson here for ambitious system architects:
+> the most dangerous enemy of a better solution is
+>  an existing codebase that is just good enough.
+>
+> -Eric S. Raymond, για το διάδοχο του Unix, το Plan 9 from Bell Labs
